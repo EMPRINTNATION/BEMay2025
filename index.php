@@ -44,7 +44,8 @@
     #String
     $name = "Emprint";
     echo "Hello $name" . "<br/>";
-
+    
+    #Personal Exercise
     $x = 700;
     $y = 34;
     echo ($x + $y) . "<br/>";
